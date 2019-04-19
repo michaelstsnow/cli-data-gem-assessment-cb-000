@@ -1,0 +1,2 @@
+class ScraperOptions
+end
