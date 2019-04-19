@@ -21,7 +21,6 @@ class CommandLineInterface
     YComboBase="https://www.ycombinator.com/companies/"
 
 	def run
-		puts "Were in the run"
 		get_options(YComboBase)
 		set_final_url
 		get_companies
