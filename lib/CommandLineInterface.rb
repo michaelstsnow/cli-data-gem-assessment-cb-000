@@ -26,6 +26,7 @@ class CommandLineInterface
 
 
 	def run
+		#puts "Hello There! \n this program helps walk you through scraping the YCombinators website of companies that they have invested in \n you also have the ability to specify the companies that you scrape by entering your own criteria. Let's get started!"
 		#greet the user with some helpful info
 		#let them know what the program does
 		#ask which options they would like to move forward with?
